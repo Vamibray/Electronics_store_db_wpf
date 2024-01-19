@@ -25,6 +25,7 @@ Microsoft.Xaml.Behaviors.Wpf – библиотека, которая предо
 ![Database](https://github.com/Vamibray/Electronics_store_db_wpf/assets/133334235/7d74404a-591f-46a9-8111-6b916380a589)
 
 #### Интерфейс:
+
 Вкладка Products 
 ![Products](https://github.com/Vamibray/Electronics_store_db_wpf/assets/133334235/f1a32177-e5b7-4d5a-a328-8aaac4504a4b)
 Вкладка Clients 
